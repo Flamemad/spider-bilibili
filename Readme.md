@@ -24,11 +24,11 @@
 
 ##### BUG修复
 
-4.解决了在使用代理时，有可能因为意外的**illegalAccessException**异常和**NullPointerException**异常
+6.解决了在使用代理时，有可能因为意外的**illegalAccessException**异常和**NullPointerException**异常
 
 而导致程序异常退出的问题
 
-5.解决了使用代理时，因代理服务器状态异常，而使得线程进入长时间等待的状态的问题
+7.解决了使用代理时，因代理服务器状态异常，而使得线程进入长时间等待的状态的问题
 
 #### 1.0
 
